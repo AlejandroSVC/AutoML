@@ -53,3 +53,7 @@ print(models_train)
 # RESULTADOS
 
 ![output](docs/assets/images/output.jpg)
+
+## Conclusión
+
+A partir del examen de los resultados del análisis es posible concluir que el método de machine learning que presenta el mejor desempeño para los datos es la regresión mediante XGBoosting. En efecto, dicho modelo presenta el mayor valor para el coeficiente de regresión múltiple ajustado (Adj R2=0.83) y a la vez el menor valor para la raíz del error cuadrático medio (RMSE=3.15).
