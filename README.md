@@ -6,7 +6,7 @@
 
 La biblioteca LazyPredict de Python revoluciona el proceso de selección de modelos al crear una gran cantidad de modelos de aprendizaje automático sin mucho código y seleccionar automáticamente el mejor. Administra más de 40 modelos de clasificación y regresión, y proporciona métricas de rendimiento completas para una rápida decisión sobre cuál modelo utilizar, permitiendo ahorrar tiempo y recursos de cómputo.
 
-Se ha utilizado esta biblioteca para encontrar el mejor modelo de machine learning para predecir el nivel de riesgo crediticio a asignar a las personas que solicitan un crédito bancario. La variable a predecir es “nivel de riesgo” (RiskScore).
+Se ha utilizado esta biblioteca para encontrar el mejor modelo de machine learning para predecir el nivel de riesgo crediticio a asignar a las personas que solicitan un crédito bancario. La variable a predecir es “nivel de riesgo” (RiskScore) y será predecida a partir de un conjunto de variables relacionadas con los antecedentes financieros de los postulantes al crédito.
 
 ## Leer la base de datos 
 ```
