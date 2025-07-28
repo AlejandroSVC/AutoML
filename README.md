@@ -1,5 +1,7 @@
 # AutoML - Machine Learning Automatizado
 
+![banner_automl](docs/assets/images/banner_automl.jpg)
+
 ## Predecir el nivel de Riesgo Crediticio mediante Machine Learning Automatizado usando LazyPredict
 
 La biblioteca LazyPredict de Python revoluciona el proceso de selección de modelos al crear una gran cantidad de modelos de aprendizaje automático sin mucho código y seleccionar automáticamente el mejor. Administra más de 40 modelos de clasificación y regresión, y proporciona métricas de rendimiento completas para una rápida decisión sobre cuál modelo utilizar, permitiendo ahorrar tiempo y recursos de cómputo.
@@ -50,3 +52,4 @@ print(models_train)
 ```
 # RESULTADOS
 
+![output](docs/assets/images/output.jpg)
